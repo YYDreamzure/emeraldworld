@@ -1,0 +1,10 @@
+{
+  "id": "20260528-121120-a4f8f6",
+  "status": "running",
+  "startedAt": 1779970280.060437,
+  "endedAt": null,
+  "model": "qwen3:30b",
+  "simTimeScale": 60.0,
+  "theme": "singapore",
+  "startingPopulation": 13
+}
